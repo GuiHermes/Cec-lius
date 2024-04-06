@@ -1,0 +1,13 @@
+#carouselExampleAutoplaying img{
+    filter: brightness(45%);
+}
+
+#carouselExampleAutoplaying h1{
+   font-size: 5rem;
+}
+
+@media (max-width: 768px) {
+    #carouselExampleAutoplaying h1{
+        font-size: 3rem;
+    }
+}
